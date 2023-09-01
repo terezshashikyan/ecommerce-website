@@ -1,0 +1,74 @@
+[33m4021a8b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mdeleted-unused-files/master[m[33m)[m HEAD@{0}: pull: Fast-forward
+[33mfa7f92f[m HEAD@{1}: checkout: moving from website-responsive to master
+[33m6a70be1[m[33m ([m[1;32mwebsite-responsive[m[33m)[m HEAD@{2}: commit: website responsive
+[33mfa7f92f[m HEAD@{3}: checkout: moving from master to website-responsive
+[33mfa7f92f[m HEAD@{4}: pull: Fast-forward
+[33m78d1a33[m HEAD@{5}: pull: Fast-forward
+[33m08b023f[m HEAD@{6}: checkout: moving from productsPage-pagination to master
+[33m0bf8bdd[m[33m ([m[1;31mdeleted-unused-files/productsPage-pagination[m[33m, [m[1;32mproductsPage-pagination[m[33m)[m HEAD@{7}: commit: pagination on products page
+[33m08b023f[m HEAD@{8}: checkout: moving from master to productsPage-pagination
+[33m08b023f[m HEAD@{9}: pull: Fast-forward
+[33mb2b3ba4[m HEAD@{10}: checkout: moving from front-updated to master
+[33mf94e118[m[33m ([m[1;31mdeleted-unused-files/front-updated[m[33m, [m[1;32mfront-updated[m[33m)[m HEAD@{11}: commit: front updated
+[33mb2b3ba4[m HEAD@{12}: checkout: moving from master to front-updated
+[33mb2b3ba4[m HEAD@{13}: pull: Fast-forward
+[33m0d4bfd6[m HEAD@{14}: pull: Fast-forward
+[33mc4517cb[m HEAD@{15}: checkout: moving from single-productpage-update to master
+[33m169d8e3[m[33m ([m[1;31mdeleted-unused-files/single-productpage-update[m[33m, [m[1;32msingle-productpage-update[m[33m)[m HEAD@{16}: commit: single product page updated
+[33m5fcdc30[m[33m ([m[1;31mdeleted-unused-files/get-firebase-products-data[m[33m, [m[1;32mget-firebase-products-data[m[33m)[m HEAD@{17}: checkout: moving from get-firebase-products-data to single-productpage-update
+[33m5fcdc30[m[33m ([m[1;31mdeleted-unused-files/get-firebase-products-data[m[33m, [m[1;32mget-firebase-products-data[m[33m)[m HEAD@{18}: commit: got firebase products database
+[33mc4517cb[m HEAD@{19}: checkout: moving from master to get-firebase-products-data
+[33mc4517cb[m HEAD@{20}: pull: Fast-forward
+[33m671e934[m HEAD@{21}: checkout: moving from homepage-notfoundpage-updated to master
+[33m8f8804b[m[33m ([m[1;31mdeleted-unused-files/homepage-notfoundpage-updated[m[33m, [m[1;32mhomepage-notfoundpage-updated[m[33m)[m HEAD@{22}: commit: new updates on homepage & notfound page
+[33m671e934[m HEAD@{23}: checkout: moving from master to homepage-notfoundpage-updated
+[33m671e934[m HEAD@{24}: pull: Fast-forward
+[33mf6db5b1[m HEAD@{25}: checkout: moving from redux-created to master
+[33m720990c[m[33m ([m[1;31mdeleted-unused-files/redux-created[m[33m, [m[1;32mredux-created[m[33m)[m HEAD@{26}: commit: redux created
+[33mf6db5b1[m HEAD@{27}: checkout: moving from redux-created to redux-created
+[33mf6db5b1[m HEAD@{28}: checkout: moving from master to redux-created
+[33mf6db5b1[m HEAD@{29}: pull: Fast-forward
+[33m81209d0[m HEAD@{30}: checkout: moving from products-carousel-created to master
+[33m1bbbee0[m[33m ([m[1;31mdeleted-unused-files/products-carousel-created[m[33m, [m[1;32mproducts-carousel-created[m[33m)[m HEAD@{31}: commit: products carousel created
+[33m81209d0[m HEAD@{32}: checkout: moving from master to products-carousel-created
+[33m81209d0[m HEAD@{33}: pull: Fast-forward
+[33m8c89d1f[m HEAD@{34}: checkout: moving from homepage-second-section to master
+[33me7125aa[m[33m ([m[1;31mdeleted-unused-files/homepage-second-section[m[33m, [m[1;32mhomepage-second-section[m[33m)[m HEAD@{35}: commit: homepage 2nd section created
+[33m8c89d1f[m HEAD@{36}: checkout: moving from master to homepage-second-section
+[33m8c89d1f[m HEAD@{37}: commit: last changes
+[33md4a49e6[m HEAD@{38}: pull: Fast-forward
+[33mbae47f6[m HEAD@{39}: pull: Fast-forward
+[33mc7f9a82[m HEAD@{40}: checkout: moving from button-component-created to master
+[33mdcaa966[m[33m ([m[1;31mdeleted-unused-files/button-component-created[m[33m, [m[1;32mbutton-component-created[m[33m)[m HEAD@{41}: commit: custom button component created
+[33mc7f9a82[m HEAD@{42}: checkout: moving from button-component-created to button-component-created
+[33mc7f9a82[m HEAD@{43}: checkout: moving from master to button-component-created
+[33mc7f9a82[m HEAD@{44}: pull: Fast-forward
+[33ma6398b5[m HEAD@{45}: checkout: moving from main to master
+[33m40a527c[m[33m ([m[1;31mdeleted-unused-files/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{46}: checkout: moving from master to main
+[33ma6398b5[m HEAD@{47}: commit: merged the last changes
+[33m72794ef[m HEAD@{48}: commit (merge):
+[33mb6d574c[m HEAD@{49}: commit: last changes
+[33mba18672[m HEAD@{50}: checkout: moving from Homepage-first-section to master
+[33mfffb26f[m[33m ([m[1;32mHomepage-first-section[m[33m)[m HEAD@{51}: commit: homepage first section created
+[33mba18672[m HEAD@{52}: checkout: moving from master to Homepage-first-section
+[33mba18672[m HEAD@{53}: checkout: moving from deleted-unused-files to master
+[33md391558[m[33m ([m[1;31mdeleted-unused-files/deleted-unused-files[m[33m, [m[1;32mdeleted-unused-files[m[33m)[m HEAD@{54}: checkout: moving from master to deleted-unused-files
+[33mba18672[m HEAD@{55}: merge refs/remotes/deleted-unused-files/master: Fast-forward
+[33m9b1e062[m HEAD@{56}: checkout: moving from deleted-unused-files to master
+[33md391558[m[33m ([m[1;31mdeleted-unused-files/deleted-unused-files[m[33m, [m[1;32mdeleted-unused-files[m[33m)[m HEAD@{57}: checkout: moving from master to deleted-unused-files
+[33m9b1e062[m HEAD@{58}: checkout: moving from master to master
+[33m9b1e062[m HEAD@{59}: checkout: moving from deleted-unused-files to master
+[33md391558[m[33m ([m[1;31mdeleted-unused-files/deleted-unused-files[m[33m, [m[1;32mdeleted-unused-files[m[33m)[m HEAD@{60}: checkout: moving from master to deleted-unused-files
+[33m9b1e062[m HEAD@{61}: checkout: moving from deleted-unused-files to master
+[33md391558[m[33m ([m[1;31mdeleted-unused-files/deleted-unused-files[m[33m, [m[1;32mdeleted-unused-files[m[33m)[m HEAD@{62}: checkout: moving from master to deleted-unused-files
+[33m9b1e062[m HEAD@{63}: checkout: moving from deleted-unused-files to master
+[33md391558[m[33m ([m[1;31mdeleted-unused-files/deleted-unused-files[m[33m, [m[1;32mdeleted-unused-files[m[33m)[m HEAD@{64}: checkout: moving from master to deleted-unused-files
+[33m9b1e062[m HEAD@{65}: checkout: moving from deleted-unused-files to master
+[33md391558[m[33m ([m[1;31mdeleted-unused-files/deleted-unused-files[m[33m, [m[1;32mdeleted-unused-files[m[33m)[m HEAD@{66}: checkout: moving from d3915580e8db4078858f604ba34d2a1183e5b102 to deleted-unused-files
+[33md391558[m[33m ([m[1;31mdeleted-unused-files/deleted-unused-files[m[33m, [m[1;32mdeleted-unused-files[m[33m)[m HEAD@{67}: checkout: moving from deleted-unused-files to d3915580e8db4078858f604ba34d2a1183e5b102
+[33md391558[m[33m ([m[1;31mdeleted-unused-files/deleted-unused-files[m[33m, [m[1;32mdeleted-unused-files[m[33m)[m HEAD@{68}: commit: deleted-unused-files
+[33mc36aa03[m HEAD@{69}: checkout: moving from deleted-unused-files to deleted-unused-files
+[33mc36aa03[m HEAD@{70}: checkout: moving from deleted-unused-files to deleted-unused-files
+[33mc36aa03[m HEAD@{71}: commit: deleted unused files
+[33m9b1e062[m HEAD@{72}: checkout: moving from master to deleted-unused-files
+[33m9b1e062[m HEAD@{73}: commit (initial): Initialize project using Create React App

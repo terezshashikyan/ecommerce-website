@@ -1,0 +1,19 @@
+.customButton {
+    width: 100%;
+    max-width: 150px;
+    height: 60px;
+    text-align: center;
+    background: none;
+    border: 5px solid #FFFFFF !important;
+    border-radius: 52px !important;
+    color: #FFFFFF !important;
+    cursor: pointer;
+    font-family: "Poppins Thin";
+    font-size: 20px;
+}
+
+.customButton:hover {
+    background-color: #FFFFFF !important;
+    color: #0D0A25 !important;
+    font-weight: 600;
+}

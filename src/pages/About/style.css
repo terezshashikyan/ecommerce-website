@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Poppins Thin";
+  src: url("../../fonts/Poppins/Poppins-Thin.ttf") format("truetype");
+}
+
+.about-title {
+  margin: 15px;
+  padding: 5px;
+}
+
+.about-text {
+  max-width: 50%;
+}
+
+.container {
+  display: flex;
+  box-sizing: border-box;
+}
+
+.about-text h2 {
+  background: -webkit-linear-gradient(
+    80.45deg,
+    #7a68fd 31%,
+    #fbd0fe 48%,
+    #aaf1fe 58%
+  );
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.about-text p {
+  font-family: "Poppins Thin";
+  font-size: 20px;
+  margin: 15px 0;
+  padding: 5px 0;
+  letter-spacing: 1.2px;
+}
+
+.personImg {
+  margin: 20px;
+  max-width: 80%;
+  box-sizing: border-box;
+}
+
+.about-img {
+  width: 50%;
+  height: 100%;
+}

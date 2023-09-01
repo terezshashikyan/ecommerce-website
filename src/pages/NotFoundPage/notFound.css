@@ -1,0 +1,28 @@
+.not-found-section {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    padding: 80px 0;
+}
+
+.not-found-section .text {
+    display: grid;
+    gap: 30px;
+}
+
+.not-found-section .text h1 {
+   font-size: 148px;
+}
+
+.not-found-section .text h1::after {
+    content: "";
+    width: 100px;
+    height: 5px;
+    border-bottom: 8px solid #ffffff;
+    display: block;
+    border-radius: 15px;
+ }
+
+ .not-found-section .image img {
+    border-radius: 50%;
+ }

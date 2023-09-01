@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Poppins Black";
+    src: url("./fonts/Poppins/Poppins-Black.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Poppins Bold";
+    src: url("./fonts/Poppins/Poppins-Bold.ttf") format("truetype");
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+}
+
+.bg-salmon {
+    background: #0D0A25;
+    color: #FFFFFF;
+}
+
+.main-container {
+    width: 100%;
+    max-width: 1152px;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 100%;
+    max-width: 180px;
+    height: 100px;
+}
+
+.wishlist {
+    width: 20px;
+    position: relative;
+    display: inline-flex;
+    margin-left: 15px;
+}
+
+.wishlist .count {
+    position: absolute;
+    top: -8px;
+    right: -10px;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.MuiBox-root.css-176lf0o {
+    width: 50% !important;
+}
+
+@media screen and (max-width: 992px) {
+    .MuiBox-root.css-176lf0o {
+        width: 100% !important;
+    }
+}
+
